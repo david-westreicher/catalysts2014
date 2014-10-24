@@ -105,7 +105,7 @@ def isPathValid(gamefield,colorToRealPos,path):
 	return visitedPos, not fail
 		
 	
-f = open('lvl4/level4-5.in')
+f = open('inputs/lvl4/level4-4.in')
 lines = f.read().splitlines()
 for line in lines:
 	#line = "5 5 8 7 1 9 1 10 2 16 3 17 2 19 4 20 3 25 4 1 1 9 3 S S W"
