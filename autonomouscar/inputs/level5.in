@@ -1,0 +1,19 @@
+Level 5
+DistanceGoal 1000
+NoSpeedTicket
+NoTicket
+TimeGoal 90
+TotalEnergyGoal 1000
+SpeedLimit 70 0
+TrafficLight 50 Red
+TrafficLight 150 Green
+TrafficLight 260 Green
+TrafficLight 300 Green
+TrafficLight 400 Green
+TrafficLight 500 Red
+TrafficLight 550 Red
+TrafficLight 650 Green
+TrafficLight 700 Green
+TrafficLight 800 Green
+TrafficLight 900 Green
+TrafficLight 999 Red

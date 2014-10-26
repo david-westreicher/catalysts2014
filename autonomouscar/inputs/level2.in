@@ -1,0 +1,10 @@
+Level 2
+DistanceGoal 1500
+NoSpeedTicket
+TimeGoal 100
+SpeedLimit 130 0
+SpeedLimit 70 500
+SpeedLimit 50 700
+SpeedLimit 100 1000
+SpeedLimit 30 1450
+

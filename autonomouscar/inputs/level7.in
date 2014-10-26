@@ -1,0 +1,71 @@
+Level 7
+DistanceGoal 10000
+NoSpeedTicket
+NoTicket
+TimeGoal 690
+TotalEnergyGoal 6100
+SpeedLimit 100 0
+SpeedLimit 70 2500
+SpeedLimit 100 4000
+SpeedLimit 50 8000
+SpeedLimit 100 9000
+TrafficLight 1436 Green
+TrafficLight 2384 Red
+TrafficLight 2599 Red
+TrafficLight 2787 Green
+TrafficLight 3673 Green
+TrafficLight 3995 Red
+TrafficLight 4032 Green
+TrafficLight 4438 Red
+TrafficLight 4726 Green
+TrafficLight 4906 Green
+TrafficLight 5290 Green
+TrafficLight 5663 Red
+TrafficLight 5753 Red
+TrafficLight 6295 Green
+TrafficLight 6603 Red
+TrafficLight 6658 Red
+TrafficLight 6915 Red
+TrafficLight 6987 Green
+TrafficLight 7018 Green
+TrafficLight 7176 Green
+TrafficLight 7347 Red
+TrafficLight 7862 Green
+TrafficLight 7952 Red
+TrafficLight 8071 Red
+TrafficLight 8308 Red
+TrafficLight 8693 Red
+TrafficLight 8829 Green
+TrafficLight 8933 Green
+TrafficLight 9054 Red
+TrafficLight 9561 Red
+VehicleMovement 0 500 20.0 0.0
+VehicleMovement 1 501 120.0 0.0
+VehicleMovement 2 502 220.0 0.0
+VehicleMovement 3 503 320.0 0.0
+VehicleMovement 4 504 420.0 0.0
+VehicleMovement 5 505 520.0 0.0
+VehicleMovement 6 506 620.0 0.0
+VehicleMovement 7 507 720.0 0.0
+VehicleMovement 8 508 820.0 0.0
+VehicleMovement 9 509 920.0 0.0
+VehicleMovement 10 510 1020.0 0.0
+VehicleMovement 11 511 1120.0 0.0
+VehicleMovement 12 512 1220.0 0.0
+VehicleMovement 13 513 1320.0 0.0
+VehicleMovement 14 514 1420.0 0.0
+VehicleMovement 15 515 1520.0 0.0
+VehicleMovement 16 516 1620.0 0.0
+VehicleMovement 17 517 1720.0 0.0
+VehicleMovement 18 518 1820.0 0.0
+VehicleMovement 19 519 1920.0 0.0
+VehicleMovement 20 520 2020.0 0.0
+VehicleMovement 21 521 2120.0 0.0
+VehicleMovement 22 522 2220.0 0.0
+VehicleMovement 23 523 2320.0 0.0
+VehicleMovement 24 524 2420.0 0.0
+VehicleMovement 25 525 2520.0 0.0
+VehicleMovement 26 526 2620.0 0.0
+VehicleMovement 27 527 2720.0 0.0
+VehicleMovement 28 528 2820.0 0.0
+VehicleMovement 29 529 2920.0 0.0

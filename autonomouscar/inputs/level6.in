@@ -1,0 +1,22 @@
+Level 6
+DistanceGoal 1500
+NoSpeedTicket
+NoTicket
+TimeGoal 140
+TrafficLight 50 Red
+TrafficLight 150 Green
+TrafficLight 300 Green
+TrafficLight 400 Green
+TrafficLight 550 Red
+TrafficLight 650 Green
+TrafficLight 900 Green
+SpeedLimit 130 0
+SpeedLimit 70 500
+SpeedLimit 50 700
+SpeedLimit 100 1000
+SpeedLimit 30 1450
+VehicleMovement 0 100 10 0
+VehicleMovement 0 100 20 0
+VehicleMovement 0 100 30 0
+VehicleMovement 0 100 40 0
+VehicleMovement 0 100 50 0
